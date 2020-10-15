@@ -1,3 +1,4 @@
+# CSE312-Operating-Systems
 ##### There are some homeworks about the Operating Systems Course inside of this folder
 ***
 ### General Informations
@@ -13,12 +14,12 @@ These steps are required to create our machine.
 ### Setup
 To run these homeworks you need to install [SPIM Packages](https://sourceforge.net/p/spimsimulator/code/HEAD/tree/)
 <br />You have to install Flex and Lex. To do that open terminal and do the following<br />
-_1.To install Flex_
+_1. To install Flex_
 ```
 sudo apt-get upgrade
 sudo apt-get install flex
 ```
-_2.To install Lex_<br />
+_2. To install Lex_<br />
 ```
 sudo apt-get upgrade
 sudo apt-get install bison
