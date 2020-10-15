@@ -24,3 +24,5 @@ _2. To install Lex_<br />
 sudo apt-get upgrade
 sudo apt-get install bison
 ```
+
+> Detail of the homeworks were mentioned in HWs folder.
