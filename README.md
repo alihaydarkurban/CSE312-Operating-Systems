@@ -11,7 +11,7 @@ These steps are required to create our machine.
 2. Install [Virtual Machine](https://drive.google.com/open?id=1YppX3lNkyTsHV_lvA4w9TomNCUkpLeEg) (Ubuntu Machine and password is 1234)
 ***
 
-### Setup
+### Setups
 To run these homeworks you need to install [SPIM Packages](https://sourceforge.net/p/spimsimulator/code/HEAD/tree/)
 <br />You have to install Flex and Lex. To do that open terminal and do the following<br />
 _1. To install Flex_
