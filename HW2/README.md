@@ -33,6 +33,6 @@ _2. Running_<br />
 ./spim -efexception.s -file SPIMOS_GTU_3.s
 ```
 ***
-> Expectation of this homework is mentionded [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW2/HW2%20spring%202020.pdf).<br/>
+> Expectations of this homework is mentionded [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW2/HW2%20spring%202020.pdf).<br/>
 > Details of my implementations are mentioned [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW2/Report.pdf).
 
