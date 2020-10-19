@@ -24,3 +24,5 @@ _2. Running_<br />
 load "Shell.asm"
 run
 ```
+***
+> Expectations of this homework is mentionded [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW1/HW1%20spring%202020.pdf).
