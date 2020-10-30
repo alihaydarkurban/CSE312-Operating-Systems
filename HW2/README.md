@@ -3,7 +3,7 @@
 ***
 ### General Informations
 There are some assembly files and C++ files inside the of [Code](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes) folder.<br/> 
-The goal is running [BinarySearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/BinarySearch.s), [LinearSearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/LinearSearch.s) and [Collatz.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/Collatz.s) on the different kernels such as : [SPIMOS_GTU_1.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/SPIMOS_GTU_1.s), [SPIMOS_GTU_2.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/SPIMOS_GTU_2.s) and [SPIMOS_GTU_3.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/SPIMOS_GTU_3.s). These kernels will support multi-programming, interrupt handling and context switching. 
+The goal is running [BinarySearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/BinarySearch.s), [LinearSearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/LinearSearch.s) and [Collatz.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/Collatz.s) on the different kernels such as: [SPIMOS_GTU_1.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/SPIMOS_GTU_1.s), [SPIMOS_GTU_2.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/SPIMOS_GTU_2.s) and [SPIMOS_GTU_3.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW2/Codes/SPIMOS_GTU_3.s). These kernels will support multi-programming, interrupt handling and context switching. 
 ***
 ### Expectation of Kernels
 * Kernels have to support fork, execve and other necessary POSIX system call and these are simulated in this homework.
@@ -34,5 +34,5 @@ _2. Running_<br />
 ```
 ***
 > Expectations of this homework is mentionded [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW2/HW2%20spring%202020.pdf).<br/>
-> Details of my implementations are mentioned [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW2/Report.pdf).
+> Details of my implementations are mentioned [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW2/Project_Report.pdf).
 
