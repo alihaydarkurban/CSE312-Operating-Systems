@@ -3,7 +3,7 @@
 ***
 ### General Informations
 There are some assembly files and C++ files inside the of [Code](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes) folder.<br/> 
-The goal is running [BinarySearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/BinarySearch.s), [LinearSearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/LinearSearch.s), [Collatz.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/Collatz.s) and [Palindrome.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/Palindrome.s) on the different kernels such as : [SPIMOS_GTU_1.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_1.s), [SPIMOS_GTU_2.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_2.s) and [SPIMOS_GTU_3.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_3.s). These kernels will support multi-programming, interrupt handling, context switching and also they keep the Process Table as an assembly data structure. 
+The goal is running [BinarySearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/BinarySearch.s), [LinearSearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/LinearSearch.s), [Collatz.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/Collatz.s) and [Palindrome.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/Palindrome.s) on the different kernels such as: [SPIMOS_GTU_1.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_1.s), [SPIMOS_GTU_2.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_2.s) and [SPIMOS_GTU_3.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_3.s). These kernels will support multi-programming, interrupt handling, context switching and also they keep the Process Table as an assembly data structure. 
 ***
 > Requirements and Setup steps were mentioned at [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/README.md). Please check them out.
 ***
@@ -25,3 +25,6 @@ _2. Running_<br />
 ./spim -efexception.s -file SPIMOS_GTU_2.s
 ./spim -efexception.s -file SPIMOS_GTU_3.s
 ```
+***
+> Expectations of this homework is mentionded [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW3/HW3%20spring%202020.pdf).<br/>
+> Details of my implementations are mentioned [here](https://github.com/alihaydarkurban/CSE312-Operating-Systems/blob/main/HW3/Project_Report.pdf).
