@@ -1,1 +1,7 @@
 # Homework#3
+##### This homework is about the developing kernels that will support multi-programming, interrupt handling, context switching and keeping Process Table in SPIM memory as an assembly data structure.
+***
+### General Informations
+There are some assembly files and C++ files inside the of [Code](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes) folder.<br/> 
+The goal is running [BinarySearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/BinarySearch.s), [LinearSearch.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/LinearSearch.s), [Collatz.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/Collatz.s) and [Palindrome.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/Palindrome.s) on the different kernels such as : [SPIMOS_GTU_1.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_1.s), [SPIMOS_GTU_2.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_2.s) and [SPIMOS_GTU_3.s](https://github.com/alihaydarkurban/CSE312-Operating-Systems/tree/main/HW3/Codes/SPIMOS_GTU_3.s). These kernels will support multi-programming, interrupt handling, context switching and also they keep the Process Table as an assembly data structure. 
+***
